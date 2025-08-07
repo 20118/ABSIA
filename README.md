@@ -1,6 +1,6 @@
 # Aspect based sentiment intensity analysis (ABSIA)
 
-This repository contains the dataset for our paper: "Service is good, very good or excellent? towards aspect based sentiment intensity analysis"
+This repository contains the dataset and code for our paper: "Service is good, very good or excellent? towards aspect based sentiment intensity analysis",
 published in ECIR.
 
 Link to paper: https://dl.acm.org/doi/abs/10.1007/978-3-031-28244-7_43
